@@ -1,1 +1,1 @@
-![Banner del repositorio](./baner.png)
+![Banner del repositorio](./Baner.png)
